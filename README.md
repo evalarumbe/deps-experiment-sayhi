@@ -21,3 +21,7 @@ Here's an interesting explanation of a similar error in text: [Stack Overflow](h
   You may need to log into your NPM account first. This command will let you authenticate in a browser:
   `npm adduser`
 
+### When might we run into problems with dependencies?
+
+- Say the author of this app now updates to v2.0.0 with a change in the API
+

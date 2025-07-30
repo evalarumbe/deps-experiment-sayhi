@@ -6,7 +6,7 @@ function SayHello() {
 
 // We want this functionality to be override-able by a plugin
 let app = {
-  SayHi: () => SayHello() // load this app's method by default
+  SayHello: () => SayHello() // load this app's method by default
 }
 
 try {

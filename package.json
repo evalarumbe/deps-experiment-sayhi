@@ -1,6 +1,6 @@
 {
   "name": "@evalarumbe/deps-experiment-sayhi",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "An experiment to understand peer dependencies",
   "bin": "./bin/index.js",
   "type": "module",
