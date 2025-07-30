@@ -11,7 +11,7 @@ let app = {
 
 try {
   // plugin will also have a SayHello method with different text output
-  app = await import ("@evalarumbe/sayhelloplugin")
+  app = await import ("@evalarumbe/deps-experiment-sayhelloplugin")
 }
 catch(e) {
   console.log("no plugins")
