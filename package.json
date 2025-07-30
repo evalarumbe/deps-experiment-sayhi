@@ -1,0 +1,13 @@
+{
+  "name": "@evalarumbe/deps-experiment-sayhi",
+  "version": "1.0.0",
+  "description": "An experiment to understand peer dependencies",
+  "bin": "./bin/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evalarumbe/deps-experiment-sayhi.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
